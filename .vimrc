@@ -4,6 +4,7 @@ Plug 'jiangmiao/auto-pairs'
 call plug#end()
 
 set number
+set tabstop=2
 
 nnoremap j gj
 nnoremap k gk
