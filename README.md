@@ -12,3 +12,11 @@ ln dotfiles/.vimrc ~/.vimrc
 ~~~
 
 Reload `.vimrc` and `:PlugInstall` to install plugins.
+
+### memo
+
+~~~
+if [ -f ~/.bash_aliases ]; then
+    . ~/.bash_aliases
+fi
+~~~
