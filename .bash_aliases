@@ -1,5 +1,6 @@
 alias ll='ls -l'
 alias la='ll -a'
+alias gc='git commit'
 alias gps='git push origin $(git rev-parse --abbrev-ref HEAD)'
 alias gpl='git pull origin $(git rev-parse --abbrev-ref HEAD)'
 alias sb='source ~/.bashrc'
