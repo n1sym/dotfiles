@@ -2,7 +2,8 @@
 
 - [https://github.com/BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)
 - [https://github.com/jonas/tig](https://github.com/jonas/tig)
-
+- [https://github.com/junegunn/vim-plug](https://github.com/junegunn/vim-plug)
+- [https://github.com/ctrlpvim/ctrlp.vim](https://github.com/ctrlpvim/ctrlp.vim)
 
 ### setup
 
